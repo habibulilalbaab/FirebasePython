@@ -1,0 +1,2 @@
+auth_path = ""
+storageBucket = ""
