@@ -7,7 +7,7 @@
 * Clone this repository inside venv
     ```
     git init
-    git remote add origin <git url>
+    git remote add origin https://github.com/habibulilalbaab/FirebasePython.git
     git fetch
     git branch master origin/main
     git checkout master
