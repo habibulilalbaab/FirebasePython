@@ -24,8 +24,9 @@
     ```
     Untuk mengubah port url api, bisa edi di api.py pang bawah, ubah port 5000 dengan yang diinginkan
 * Running service
+    masuk ke folder virtual env yang telah dibuat & jalankan
     ```
-    <venv_location>/bin/python3 api.py &
+    bin/python3 api.py &
     ```
 ### Endpoint
 ```
